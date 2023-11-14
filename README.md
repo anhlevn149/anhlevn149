@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats 
 
-<a href="https://github.com/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anhlevn149&show_icons=true&include_all_commits=true&hide_border=false&count_private=true" height="200"  width="420" alt="Anh's github stats" /></a> <a href="https://github.com/anhlevn149/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anhlevn149&layout=compact&hide_border=false" height="200" width="350" /></a>
+<a href="https://github.com/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anhlevn149&show_icons=true&include_all_commits=true&hide_border=false&count_private=true" height="200"  width="420" alt="Anh Le's github stats" /></a> <a href="https://github.com/anhlevn149/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anhlevn149&layout=compact&hide_border=false" height="200" width="350" /></a>
 <!--
 **anhlevn149/anhlevn149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
