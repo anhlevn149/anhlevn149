@@ -33,9 +33,6 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 &nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Cloud-microsoft%20azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 &nbsp;
-
-</br>
-
 ![Databricks](https://img.shields.io/badge/ETL-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
 &nbsp;
 ![Databricks](https://img.shields.io/badge/ETL-dbt-FF694B?style=flate&logo=dbt&logoColor=white)
@@ -45,31 +42,27 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 
 ![Heroku](https://img.shields.io/badge/App-Heroku-430098?style=flate&logo=heroku&logoColor=white)
 &nbsp;
-
-</br>
-
 ![Tableau](https://img.shields.io/badge/Dataviz-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
 ## 📊 GitHub Stats 
 
 ![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anhlevn149&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-<a href="https://github.com/anhlevn149/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anhlevn149&layout=compact&hide_border=false" height="200" width="350" /></a>
 
-<a href="https://github.com/anhlevn149/Sales-prediction-and-forecasting-SGDRegressor-LinearRegression">
+<a href="https://github.com/anhlevn149/Retailer-Sales-Prediction-and-Forecasting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Sales-prediction-and-forecasting-SGDRegressor-LinearRegression&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Retailer-Sales-Prediction-and-Forecasting&theme=radical" />
   
-<a href="https://github.com/anhlevn149/API-sales-prediction-SGDRegressor-Heroku">
+<a href="https://github.com/anhlevn149/API-Sales-Prediction-Heroku">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=API-sales-prediction-SGDRegressor-Heroku&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=API-Sales-Prediction-Heroku&theme=dark" />
 
-<a href="https://github.com/anhlevn149/API-sales-forecast-LinearRegression-Heroku">
+<a href="https://github.com/anhlevn149/API-Sales-Forecast-Heroku">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=API-sales-forecast-LinearRegression-Heroku&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=API-Sales-Forecast-Heroku&theme=merko" />
 
-<a href="https://github.com/anhlevn149/NBA-draft-Kaggle-competition-RandomForest">
+<a href="https://github.com/anhlevn149/NBA-Draft-Kaggle-Competition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=NBA-draft-Kaggle-competition-RandomForest&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=NBA-Draft-Kaggle-Competitiont&theme=cobalt" />
   
 <!--
 **anhlevn149/anhlevn149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
