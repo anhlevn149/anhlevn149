@@ -1,9 +1,11 @@
 # Hi there, I'm Anh! Welcome to my Github page 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## 🔭 I’m currently working on ...
+
+## 🌱 I’m currently learning ...
+
 ## 📫 Connect with me:
-<a href="https://www.linkedin.com/in/levungocanh/"><img align="left" src="https://raw.githubusercontent.com/anhlevn149/anhlevn149/main/Images/linkedin_flaticon_riajulislam.png" alt="Anh Le | LinkedIn" width="21px"/></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/levungocanh/)
 </br>
 
 ## 🧰 Toolbox
@@ -28,9 +30,9 @@
 
 <a href="https://github.com/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anhlevn149&show_icons=true&include_all_commits=true&hide_border=false&count_private=true" height="200"  width="420" alt="Anh Le's github stats" /></a> <a href="https://github.com/anhlevn149/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anhlevn149&layout=compact&hide_border=false" height="200" width="350" /></a>
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/anhlevn149/Sydney-airbnb-dbt">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Sydney-airbnb-dbt&theme=radical" />
   
 <!--
 **anhlevn149/anhlevn149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
