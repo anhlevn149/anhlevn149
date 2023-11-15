@@ -28,7 +28,15 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 &nbsp;
 ![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
 &nbsp;
-![Databricks](https://img.shields.io/badge/Tool-Databricks-%234285F4.svg?style=flat&logo=databricksd&color=4285F4&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Cloud-microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+&nbsp;
+![Databricks](https://img.shields.io/badge/ETL-Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+&nbsp;
+![Databricks](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ## 📊 GitHub Stats 
 
