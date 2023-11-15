@@ -26,17 +26,29 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 &nbsp;
 ![Docker](https://img.shields.io/badge/Tool-Docker-%230db7ed.svg?style=flat&logo=docker&color=0db7ed&logoColor=0db7ed)
 &nbsp;
-![Google Cloud](https://img.shields.io/badge/Tool-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
+
+</br>
+
+![Google Cloud](https://img.shields.io/badge/Cloud-GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&color=4285F4&logoColor=white)
 &nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Cloud-microsoft%20azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 &nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Cloud-microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</br>
+
+![Databricks](https://img.shields.io/badge/ETL-Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
 &nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Databricks](https://img.shields.io/badge/ETL-dbt-FF694B?style=flate&logo=dbt&logoColor=white)
 &nbsp;
-![Databricks](https://img.shields.io/badge/ETL-Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
+</br>
+
+![Heroku](https://img.shields.io/badge/App-Heroku-430098?style=flate&logo=heroku&logoColor=white)
 &nbsp;
-![Databricks](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+</br>
+
+![Tableau](https://img.shields.io/badge/Dataviz-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
 ## 📊 GitHub Stats 
 
