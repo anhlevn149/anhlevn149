@@ -1,13 +1,10 @@
 # Welcome to my Github page 👋
 Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Australia. I am particularly interested in the following fields: Big Data, Data Engineering, and Data Visualisation. 
 
-## 🔭 I’m currently working on ...
-
-## 🌱 I’m currently learning ...
-
 ## 📫 Connect with me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/levungocanh/)
 </br>
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/anhlevn149/)
 
 ## 🧰 Toolbox
 
@@ -48,13 +45,17 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 
 ![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anhlevn149&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/anhlevn149/Sydney-airbnb-dbt">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Sydney-airbnb-dbt&theme=highcontrast" />
+
 <a href="https://github.com/anhlevn149/Retailer-Sales-Prediction-and-Forecasting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Retailer-Sales-Prediction-and-Forecasting&theme=radical" />
   
 <a href="https://github.com/anhlevn149/API-Sales-Prediction-Heroku">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=API-Sales-Prediction-Heroku&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=API-Sales-Prediction-Heroku&theme=synthwave" />
 
 <a href="https://github.com/anhlevn149/API-Sales-Forecast-Heroku">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -62,7 +63,7 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 
 <a href="https://github.com/anhlevn149/NBA-Draft-Kaggle-Competition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=NBA-Draft-Kaggle-Competitiont&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=NBA-Draft-Kaggle-Competition&theme=cobalt" />
   
 <!--
 **anhlevn149/anhlevn149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
