@@ -30,6 +30,8 @@
 
 <a href="https://github.com/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anhlevn149&show_icons=true&include_all_commits=true&hide_border=false&count_private=true" height="200"  width="420" alt="Anh Le's github stats" /></a> <a href="https://github.com/anhlevn149/anhlevn149"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anhlevn149&layout=compact&hide_border=false" height="200" width="350" /></a>
 
+![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anhlevn149&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 <a href="https://github.com/anhlevn149/Sydney-airbnb-dbt">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Sydney-airbnb-dbt&theme=radical" />
