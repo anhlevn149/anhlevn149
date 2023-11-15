@@ -1,4 +1,4 @@
-# Welcome to my Github page 👋
+# Welcome to my Github page :blossom:
 Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Australia. I am particularly interested in the following fields: Big Data, Data Engineering, and Data Visualisation. 
 
 ## 📫 Connect with me:
