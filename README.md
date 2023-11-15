@@ -46,6 +46,11 @@ Hi there, I'm Anh! I am a Master's student in Data Science, based in Sydney, Aus
 ![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anhlevn149&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ## :pushpin: Pinned Repos 
+
+<a href="https://github.com/anhlevn149/ Flight-Ticket-Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo= Flight-Ticket-Prediction&theme=dracula" />
+ 
 <a href="https://github.com/anhlevn149/Sydney-airbnb-dbt">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhlevn149&repo=Sydney-airbnb-dbt&theme=radical" />
